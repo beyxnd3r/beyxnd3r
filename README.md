@@ -39,6 +39,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/beyxnd3r/beyxnd3r/output/snake.svg" alt="Snake animation" />
 
 ###
