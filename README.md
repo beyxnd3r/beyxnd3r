@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🤓 Always studying<br>📚 I love learning lenguages and othe stuff<br>🎯 Doing everything for the goal</p>
+<p align="left">🤓 Always studying<br>📚 I love learning languages and other stuff<br>🎯 Doing everything for the goal</p>
 
 ###
 
